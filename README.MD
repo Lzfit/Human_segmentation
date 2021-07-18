@@ -10,7 +10,7 @@ It is a small dataset comprising 290 images and the corresponding masks for sema
 In each mask humans were labeled depending on their positions on the corresponding images.
 Example:  
   
-![training image](./Human-Segmentation-Dataset/Training_Images/21.jpg) ![mask image](./Human-Segmentation-Dataset/Ground_Truth/21.png)
+![training image](https://github.com/VikramShenoy97/Human-Segmentation-Dataset/blob/master/Training_Images/21.jpg?raw=true) ![mask image](https://github.com/VikramShenoy97/Human-Segmentation-Dataset/blob/master/Ground_Truth/21.png?raw=true)
 <br/><br/>
 ## Goal
 
